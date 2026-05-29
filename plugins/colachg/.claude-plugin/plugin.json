@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "colachg",
+  "version": "0.1.0",
+  "description": "A collection of personal skills for Claude Code.",
+  "author": {
+    "name": "colachg",
+    "email": "6825116+colachg@users.noreply.github.com"
+  },
+  "keywords": ["skills", "personal"]
+}

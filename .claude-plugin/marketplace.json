@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "skills",
+  "version": "0.1.0",
+  "description": "Cola's personal collection of Claude Code skills.",
+  "owner": {
+    "name": "colachg",
+    "email": "6825116+colachg@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "colachg",
+      "source": "./plugins/colachg",
+      "description": "A collection of personal skills for Claude Code.",
+      "version": "0.1.0"
+    }
+  ]
+}
