@@ -25,7 +25,7 @@ Skills in `plugins/colachg/skills/` are auto-discovered — no need to list them
 Push this repo to GitHub, then in Claude Code:
 
 ```
-/plugin marketplace add <your-github-user>/skills
+/plugin marketplace add colachg/skills
 /plugin install colachg@skills
 ```
 
